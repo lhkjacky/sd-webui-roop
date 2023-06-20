@@ -2,7 +2,7 @@ import tempfile
 from ifnude import detect
 
 def convert_to_sd(img):
-    #shapes = []
+    shapes = []
     #chunks = detect(img)
     #print(detect(img))
     #for chunk in chunks:
